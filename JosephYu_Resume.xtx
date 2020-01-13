@@ -1,0 +1,224 @@
+\documentclass[]{JosephYu_Resume}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Joseph}{Yu}
+{{2650 Haste St., Berkeley, California, 94720} | \href{mailto:josephyu11600@berkeley.edu}{josephyu11600@berkeley.edu} | 713.471.1827} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t][16cm][t]{0.35\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+\smallskip
+\subsection{University of California, \newline
+Berkeley}
+\descript{ B.A. Computer Science \& Statistics}
+\location{Grad. May 2022 | Berkeley, California}
+\location{Cum. GPA: 3.61 / 4.0}
+\sectionsep 
+
+
+\subsection{Glenda Dawson HighSchool}
+\location{Grad. May 2018 |  Houston, Texas}
+\location{Cum. GPA: 4.0 / 4.0}
+\sectionsep
+\bigskip
+\bigskip
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\section{Links} 
+%Facebook:// \href{https://facebook/dd}{\bf dd} \\
+%Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
+%LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
+%YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
+%Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
+%Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Coursework}
+\smallskip
+\subsection{Undergraduate}
+Structure and Interpretation of Computer Programs \\
+Data Structures \\
+Great Ideas in Computer Architecture \\
+Efficient Algorithms and Intractable Problems\\
+Discrete Mathematics and Probability Theory\\
+Linear Algebra \\
+\bigskip
+\bigskip
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\smallskip
+\subsection{Programming}
+\location{Over 1000 lines:}
+Java \textbullet{} C \textbullet{} Python \textbullet{} Assembly \textbullet{} NumPy \textbullet{} Pandas\\
+\smallskip
+\location{Over 500 lines:}
+HTML \textbullet{} CSS \textbullet{} JavaScript \textbullet{} Scikit-Learn \\
+\smallskip
+\location{Familiar:}
+OpenMP \textbullet{} AWS \textbullet{} Gurobi Optimizer \textbullet{} Spark \textbullet{} SIMD \textbullet{} PyTorch \textbullet{}  \LaTeX 
+\sectionsep
+
+\subsection{Languages}
+\location{Fluency}
+English \textbullet{} Mandarin
+\sectionsep
+\bigskip
+\bigskip
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Organizations
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Organizations}
+\smallskip
+\subsection{Student Association of \newline Applied Statistics}
+\textbullet{} Operated on datasets using the Scikit-learn machine learning library for classification and regression 
+\newline
+\textbullet{} Worked with other members on modeling real data using k-nearest-neighbors, decision trees, and neural networks
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t][16cm][t]{0.60\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Professional Experience}
+\smallskip
+\runsubsection{UC Berkeley Electrical Engineering and Computer Science}
+\descript{| Academic Intern}
+\smallskip
+\location{Jan 2019 - May 2019 | Berkeley, CA}
+\vspace{\topsep} 
+\begin{tightemize}\item Academic Intern for CS61A: Structure and Interpretation of Computer Programs \item Debugged Python and SQL assignments and projects during labs and office hours. \item Explained concepts such as recursion, functions, and trees.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Code Ninjas}
+\descript{| Computer Science Tutor}
+\smallskip
+\location{June 2017 – Aug 2018 | Houston, TX}
+\begin{tightemize}\item Educated children between the ages of seven and fourteen on the fundamentals of game and website creation. 
+\item Taught children JavaScript, HTML, CSS, and Scratch. 
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Private Tutoring}
+\descript{| Computer Science Private Tutor }
+\smallskip
+\location{Aug 2017 – July 2018 | Houston, TX}
+\begin{tightemize}
+\item Worked as a private computer science tutor for a brother and sister who were seven and eight, respectively. \item Taught them the basics in website and game creation using HTMl, CSS, and JavaScript. 
+\end{tightemize}
+\sectionsep
+
+% \runsubsection{Dalia Kasseb Political Campaign}
+% \descript{| Canvasser}
+\smallskip
+% \location{Jan 2018 – June 2018 | Houston, TX}
+% \begin{tightemize}
+% \item Encouraged community members to vote for Dalia Kasseb for city council. \item Explained Dalia Kasseb’s stances on issues as well as what she would do to improve the community.
+% \end{tightemize}
+% \sectionsep
+
+% \runsubsection{Houston Museum of Natural Science}
+% \descript{| Teaching Assistant}
+% \smallskip
+% \location{June 2017 – June 2017 | Houston, TX}
+% \begin{tightemize}
+% \item Educated the campers on their specific topics of interest and the different exhibits in the museum.\item Worked on optimizing the curriculum for the next day.
+% \end{tightemize}
+% \sectionsep
+\bigskip
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+\smallskip
+\runsubsection{Data Consulting for Grandmark International}
+\newline
+\smallskip
+\location{Sept 2019 - Dec 2019 | Berkeley, CA}
+\begin{tightemize}\item Developed a web application using Python Flask for a car parts company in South Africa.\item Built a model to help forecast demand of car parts as well as dates of peak sales, optimal dates to restock, and how to minimize lost sales.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Assembly Neural Network}
+\smallskip
+\location{Oct 2019 | Berkeley, CA}
+\begin{tightemize}\item Developed a Convolutional Neural Network to classify handwritten numbers using RISC-V, an Assembly language.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Random World Generator}
+\smallskip
+\location{April 2019 | Berkeley, CA}
+\begin{tightemize}
+\item Used to Java to build an engine that can generate a 2D-tile based map with random rooms and hallways to explore similar to retro NES games \item Added the ability for the user to interact with the world and “win” conditions.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{BearMaps}
+\smallskip
+\location{April 2019 | Berkeley, CA}
+\begin{tightemize}
+\item A web application that will display a map of Berkeley and find the shortest path between two locations \item Uses KDTrees and TrieSet as Data Structures and A*
+algorithm to find shortests path
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Kaggle Dog Breed Competition}
+\newline
+\location{April 2019 | Berkeley, CA}
+\smallskip
+\begin{tightemize}
+\item Analyzed how features such as breed, color, and description can affect the adoption speed of a stray dog or cat
+%\item Used Google’s sentiment analysis tool to convert each stray’s description to a sentiment value between -1 and 1.
+\item Built a model using K-nearest-neighbors to predict adoption speed of a stray from their age, description and health.
+\end{tightemize}
+\sectionsep
+\end{minipage} 
+\end{document}  \documentclass[]{article}
