@@ -130,6 +130,12 @@ English \textbullet{} Mandarin
 
 \section{Professional Experience}
 \smallskip
+\runsubsection{Listing Bird}
+\descript{| Software Engineer Intern}
+\smallskip
+\location{May 2020 - Current | San Francisco, CA}
+\sectionsep
+
 \runsubsection{UC Berkeley Electrical Engineering and Computer Science}
 \descript{| Academic Intern}
 \smallskip
@@ -200,13 +206,13 @@ English \textbullet{} Mandarin
 \sectionsep
 
 
-\runsubsection{Assembly Neural Network}
-\smallskip
-\location{Oct 2019 | Berkeley, CA}
-\begin{tightemize}\item Developed ReLU, matrix multiplication, addition, and subtraction using RISC-V, an Assembly language, for use in a convolutional neural network to classify handwritten digits.
-\end{tightemize}
-\sectionsep
-
+%\runsubsection{Assembly Neural Network}
+%\smallskip
+%\location{Oct 2019 | Berkeley, CA}
+%\begin{tightemize}\item Developed ReLU, matrix multiplication, addition, and subtraction using RISC-V, an Assembly language, for use in a convolutional neural network to classify handwritten digits.
+%\end{tightemize}
+%\sectionsep
+%
 \runsubsection{Random World Generator}
 \smallskip
 \location{April 2019 | Berkeley, CA}
